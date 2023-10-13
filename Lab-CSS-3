@@ -1,0 +1,129 @@
+<doctype html>
+    <html>
+    <head>
+        <title>
+    
+            Personal Portfolio
+        </title>
+        <link rel="stylesheet" href="lab3.css">
+    </head>
+    <body>
+        <h1 style="background-color: rgb(16, 238, 238);" style="color: aquamarine;">
+            Carria Willie
+        </h1>
+        <h3>New Jersey Institute of Technology
+            csw27
+            Bachelor in aArchitecture
+        </h3>
+    
+        <p style="color: aqua;">
+            Hey, i'm Carria Willie, an architecture student with a passion for design, building models, learning and exploring. Currently, i'm pursing a Bachelors degree at NJIT, where i'm honored to learn and gain the skill of drafting, 3D modeling, sustainable design, and all the other important skills that are needed. I love to paint and just using my hand to create a lot of thngs and i would spend hours working on my work. Outside of school, i enjoy trying other culture dishes.  
+        </p>
+    
+    <a href="https://www.njit.edu"></NJIT></a>
+    <img src="IMG-6268.jpg" alt="IMG-6268"width="300" heigh="159">
+    
+    <div>
+        <table>
+            <tr>Education
+            <th colspan="2">Name </th>
+            <th>Program</th>
+            </tr>
+            <tr>
+               <td rowspan="1">Josh </td>
+               <td rowspan="1">White</td>
+              <td>architecture</td>
+            </tr>
+            <tr>
+            <td>Josh</td>
+            <td>White</td>
+            <td>Computer skills</td>
+            </tr>
+        </table>
+        </p>
+
+
+    </div style="margin-top: 100px;">
+    </form>
+    <label for="text"></label>Fill in the following information
+    
+ <p> <label
+for="carriaisbtsfan123"></label>
+                        <input type="text"
+                        placeholder="Username"> <br>
+ 
+                     
+            <label 
+for="Carria"></label>  
+
+                    <input type="text"
+placeholder="First Name"> <br>
+
+            <label
+ for="Willie"></label>
+            <input type="text"
+placeholder="Last Name"> <br>
+
+        <label 
+for="csw27@njit.edu "></label > 
+                <input type="text"
+placeholder="Email">
+<p>
+
+    <p>
+    <label for="checkbox"></label>Select the following
+<div>
+   
+    <input type="checkbox" name="course">
+    Math
+</div>
+
+<div>
+    <input type="checkbox" name="course">
+    Architecture
+</div>
+
+<div>
+    <input type="checkbox" name="Computer">
+    Computer Science
+</div>
+<p>
+
+</p>
+<label for="radio"></label>Select the following
+<div>
+   
+    <input type="radio" name="course">
+    Math
+</div>
+
+<div>
+    <input type="radio" name="course">
+    Architecture
+</div>
+
+<div>
+    <input type="radio" name="Computer">
+    Computer Science
+</div>
+<input type="submit">
+
+<div>
+
+<ul>
+    <li>English</li>
+    <li>Math</li>
+    <li>Computer Programming & Graph Prob</li>
+    <li>Arch 110</li>
+    <li>Arch 195</li>
+    <li>First-Year Seminar</li>
+    </ul>
+<div>
+</div>
+    <img src="Peony_Lorelei-4_580x773.webp" alt="Image1" class="img1">
+    <img src="img2.jpg.jpg" alt="Image2" class="img2">
+    <img src="Peony_Lorelei-4_580x773.webp" alt="Image3" class="img3">
+    <div>
+</body>
+    </html>
+    
